@@ -1,3 +1,4 @@
+.RData filter=lfs diff=lfs merge=lfs -text
 *.R filter=lfs diff=lfs merge=lfs -text
 *.do filter=lfs diff=lfs merge=lfs -text
 *.dta filter=lfs diff=lfs merge=lfs -text
