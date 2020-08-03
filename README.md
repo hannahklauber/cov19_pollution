@@ -7,6 +7,7 @@ This repository (in progress) includes the code and data to replicate the findin
 To run the scripts the following packages need to be installed and loaded: 
 
 - dplyr
+- purrr
 - tidyr
 - fixest
 - ggplot2
