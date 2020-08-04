@@ -1,5 +1,4 @@
-`[![DOI](https://zenodo.org/badge/284738650.svg)](https://zenodo.org/badge/latestdoi/284738650)`
-
+[![DOI](https://zenodo.org/badge/284738650.svg)](https://zenodo.org/badge/latestdoi/284738650)
 
 # Thermal inversion induced air pollution increases COVID-19 infections and deaths
 
