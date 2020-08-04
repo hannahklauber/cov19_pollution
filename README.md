@@ -80,4 +80,3 @@ The script `figure2.R` creates the spaghetti-plot in Figure 2.
 The script `figure3.R` creates specification chart in Figure 3.
 
 
-
