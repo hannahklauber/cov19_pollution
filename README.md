@@ -1,5 +1,5 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # Effects of thermal inversion induced air pollution on COVID-19
 This repository (in progress) includes the code and data to replicate the findings summarized in our paper. 
