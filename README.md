@@ -1,6 +1,7 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3973516.svg)](https://doi.org/10.5281/zenodo.3973516)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # Effects of thermal inversion induced air pollution on COVID-19
+
 This repository (in progress) includes the code and data to replicate the findings summarized in our paper. 
 
 Currently it contains only the final data panels for the regression analysis and for creating the figures. 
