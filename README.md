@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/284738650.svg)](https://zenodo.org/badge/latestdoi/284738650)
 
-# Thermal inversion induced air pollution increases COVID-19 infections and deaths
-
+# Effects of thermal inversion induced air pollution on COVID-19
 This repository (in progress) includes the code and data to replicate the findings summarized in our paper. 
 
 Currently it contains only the final data panels for the regression analysis and for creating the figures. 
